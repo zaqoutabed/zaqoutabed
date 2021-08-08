@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 
 <!--
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/zaqoutabed" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
--->
-
 
 <h2>🏆 Github Profile Trophy</h2>
 <div align="center">
     <img width="90%" src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 </div>
-
+-->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" width="45%" />
