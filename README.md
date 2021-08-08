@@ -14,43 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm software development with 4 years of experience in software development as a Python Developer. I'm always open to new and accepting the challenges with interest and enthusiasm.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed)
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
-
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Shin!</h2>
+<h2 align="center">Hi there 👋, I'm Abdullah!</h2>
 
-
+<--
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+-->
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=shinokada&column=9&theme=gruvbox&no-frame=true"/>
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinokada&show_icons=true&theme=tokyonight)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinokada&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true)
 
 <h3 align="left">Languages and Tools:</h3>
 
 
 ## My Repos
-
+<--
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
-
+-->
 
 
 **Languages and Tools:**  
