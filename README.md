@@ -23,14 +23,17 @@ Here are some ideas to get you started:
 
 
 <h2>🏆 Github Profile Trophy</h2>
-
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 </p>
+
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" width="50%" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="100%"/>
 </p>
 
 <div align="center">
