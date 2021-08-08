@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 
-<p>
-  ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
-</p>
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&layout=compact)
 
