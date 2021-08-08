@@ -61,8 +61,29 @@ Here are some ideas to get you started:
 
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=backpack_install&show_owner=true)](https://github.com/zaqoutabed/backpack_install)
 -->
-
+<details>
 <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"></code>
+<br>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"></code>
+<br>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/erpnext.jpg"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/django.png"></code>
+<br>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"></code>
+<br>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/linux.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/git.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/aws.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/docker.png"></code>
+<code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/mysql.png"></code>
 
 <br><br>
 </details>
