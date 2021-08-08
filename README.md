@@ -26,7 +26,7 @@ I'm software development with 4 years of experience in software development as a
 </p>  
 <h2 align="center">Hi there 👋, I'm Abdullah!</h2>
 
-<--
+<!--
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 -->
 
@@ -44,7 +44,7 @@ I'm software development with 4 years of experience in software development as a
 
 
 ## My Repos
-<--
+<!--
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
