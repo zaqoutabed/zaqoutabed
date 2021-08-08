@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true)
 -->
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <!--
 ## My Repos
@@ -60,11 +60,6 @@ Here are some ideas to get you started:
 
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=backpack_install&show_owner=true)](https://github.com/zaqoutabed/backpack_install)
 -->
-
-
-**Languages and Tools:**  
-
-##### My skills
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
