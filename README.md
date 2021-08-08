@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 
 <h2>🏆 Github Profile Trophy</h2>
+
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
-
+<p>
+  ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&layout=compact)
 
@@ -34,9 +36,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-## My Repos
 <!--
+## My Repos
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=zaqoutabed&show_owner=true)](https://github.com/zaqoutabed/zaqoutabed)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=gitstart&show_owner=true)](https://github.com/zaqoutabed/gitstart)
