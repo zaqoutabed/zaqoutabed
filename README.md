@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <p align="center">I'm software development with 4 years of experience in software development as a Python Developer.</p>
 <p align="center">I'm always open to new and accepting the challenges with interest and enthusiasm.</p>
 
+<br>
+
 <!--
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/zaqoutabed" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" width="45%" />
 </div>
-
+<br>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="90%"/>
 </div>
@@ -47,7 +49,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true)
 -->
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<h3 align="center">Languages and Tools:</h3>
 
 <!--
 ## My Repos
@@ -72,6 +75,8 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/vim.png"></code>  
+
+<br>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" width="90%"/>
