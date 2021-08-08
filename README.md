@@ -34,15 +34,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="90%"/>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" width="90%"/>
-</div>
-
+<!--
 <div align="center">
     <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" width="90%"/>
 </div>
 
-<!--
+
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
 
 
@@ -75,5 +72,9 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/zaqoutabed/zaqoutabed/master/assets/vim.png"></code>  
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" width="90%"/>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=zaqoutabed)
