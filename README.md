@@ -27,13 +27,18 @@ Here are some ideas to get you started:
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="420" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="100%" />
 </p>
 
-<div>
+<div align="center">
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
 </div>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<div align="center">
+    <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+</div>
 
 <!--
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=tokyonight)
