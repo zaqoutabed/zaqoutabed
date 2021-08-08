@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
-
 <hr>
-<h2 align="center" style="font-family: 'PT Mono', sans-serif;">Hi there 👋, I'm Abdullah!</h2>
-<p align="center">I'm a motivated full-stack engineer who has experience building and scaling web applications and services in various domains.</p>
-<p align="center">I'm also passionate about open source contributions, working in high impact environments with frequent deployments, and helping development teams to growing and build great products.</p>
+<h2 align="center">Hi there 👋, I'm Abdullah!</h2>
+<p align="center">Motivated full-stack engineer who has experience building and scaling web applications and services in various domains.</p>
+<p align="center">I'm passionate about open source contributions, working in high impact environments with frequent deployments, and helping development teams to growing and build great products.</p>
 
 <hr>
 <br>
