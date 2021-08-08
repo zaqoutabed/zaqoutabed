@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 <h2 align="center">Languages and Tools</h2>
-<br>
+
 <!--
 ## My Repos
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=zaqoutabed&show_owner=true)](https://github.com/zaqoutabed/zaqoutabed)
