@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zaqoutabed)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&show_icons=true&theme=radical)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zaqoutabed&theme=highcontrast&show_icons=true&count_private=true)
