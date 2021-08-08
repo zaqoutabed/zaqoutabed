@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+<br>
 <h2 align="center">Hi there 👋, I'm Abdullah!</h2>
 <p align="center">I'm software development with 4 years of experience in software development as a Python Developer.</p>
 <p align="center">I'm always open to new and accepting the challenges with interest and enthusiasm.</p>
 
+<hr>
 <br>
-
 <!--
 <a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/zaqoutabed" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
 
@@ -50,7 +51,8 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true)
 -->
 <hr>
-<h2 align="center">Languages and Tools:</h2>
+<br>
+<h2 align="center">Languages and Tools</h2>
 
 <!--
 ## My Repos
@@ -103,7 +105,7 @@ Here are some ideas to get you started:
 <br><br>
 </details>
 
-<br>
+<hr>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" width="90%"/>
