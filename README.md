@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2>🏆 Github Profile Trophy</h2>
 <div align="center">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=zaqoutabed&column=9&theme=gruvbox&no-frame=true"/>
 </div>
 
 <div align="center">
