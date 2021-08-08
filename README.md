@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
+
 <hr>
-<h2 align="center">Hi there 👋, I'm Abdullah!</h2>
-<p align="center">I'm software development with 4 years of experience in software development as a Python Developer.</p>
-<p align="center">I'm always open to new and accepting the challenges with interest and enthusiasm.</p>
+<h2 align="center" style="font-family: 'PT Mono', sans-serif;">Hi there 👋, I'm Abdullah!</h2>
+<p align="center">I'm a motivated full-stack engineer who has experience building and scaling web applications and services in various domains.</p>
+<p align="center">I'm also passionate about open source contributions, working in high impact environments with frequent deployments, and helping development teams to growing and build great products.</p>
 
 <hr>
 <br>
