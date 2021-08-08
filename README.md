@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-<br>
 <h2 align="center">Hi there 👋, I'm Abdullah!</h2>
 <p align="center">I'm software development with 4 years of experience in software development as a Python Developer.</p>
 <p align="center">I'm always open to new and accepting the challenges with interest and enthusiasm.</p>
@@ -51,9 +50,8 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true)
 -->
 <hr>
-<br>
 <h2 align="center">Languages and Tools</h2>
-
+<br>
 <!--
 ## My Repos
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=zaqoutabed&show_owner=true)](https://github.com/zaqoutabed/zaqoutabed)
