@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zaqoutabed&theme=neon-palenight&hide_border=true" alt="my github stats" width="90%"/>
 </p>
 
 <div align="center">
