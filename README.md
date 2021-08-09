@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>&nbsp;
-    <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/jquery.png"/>&nbsp;
+    <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
