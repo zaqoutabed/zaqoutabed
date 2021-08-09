@@ -73,6 +73,7 @@ Here are some ideas to get you started:
     <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>&nbsp;
     <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
 </div>
+<br>
 <div align="center">
     <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"/>&nbsp;
     <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/erpnext.jpg"/>&nbsp;
