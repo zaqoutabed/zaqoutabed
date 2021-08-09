@@ -62,26 +62,26 @@ Here are some ideas to get you started:
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=backpack_install&show_owner=true)](https://github.com/zaqoutabed/backpack_install)
 -->
 <div align="center">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>&nbsp;
     <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
 </div>
 <div align="center">
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/erpnext.jpg"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/django.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/linux.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/git.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/aws.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/docker.png"></code>
-    <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/mysql.png"></code>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/erpnext.jpg"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/django.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/linux.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/git.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/aws.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/docker.png"/>&nbsp;
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/mysql.png"/>
 </div>
 <br><br>
 
