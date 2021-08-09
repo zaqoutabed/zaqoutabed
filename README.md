@@ -62,18 +62,16 @@ Here are some ideas to get you started:
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=backpack_install&show_owner=true)](https://github.com/zaqoutabed/backpack_install)
 -->
 <div align="center">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png">
-    
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png">
-    
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png">
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>
+    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
 </div>
 <div align="center">
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"></code>
