@@ -62,16 +62,16 @@ Here are some ideas to get you started:
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=zaqoutabed&repo=backpack_install&show_owner=true)](https://github.com/zaqoutabed/backpack_install)
 -->
 <div align="center">
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.jpeg"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>&nbsp;
-    <img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/python.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/javascript.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/html.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/css3.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/react.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/redux.png"/>&nbsp;
+    <img height="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/vue.png"/>
 </div>
 <br>
 <div align="center">
