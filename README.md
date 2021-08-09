@@ -80,6 +80,7 @@ Here are some ideas to get you started:
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/django.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/linux.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/git.png"/>&nbsp;
+    <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/github.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/aws.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/docker.png"/>&nbsp;
     <img height="50" width="50" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/mysql.png"/>
