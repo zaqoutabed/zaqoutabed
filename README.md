@@ -70,7 +70,8 @@ Here are some ideas to get you started:
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/bootstrap.png"></code>
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/sass.png"></code>
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/Jquery.png"></code>
-
+</div>
+<div align="center">
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/frappe.png"></code>
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/erpnext.jpg"></code>
     <code><img height="35" src="https://github.com/zaqoutabed/zaqoutabed/blob/main/imgs/django.png"></code>
