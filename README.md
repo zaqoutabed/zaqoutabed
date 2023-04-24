@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <p align="center">Motivated full-stack engineer who has experience building and scaling web applications and services in various domains.</p>
 <p align="center">I'm passionate about open source contributions, working in high impact environments with frequent deployments, and helping development teams to growing and build great products.</p>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdallah-zaqout-19a255233" target="_blank">
+  <a href="https://www.linkedin.com/in/abdallahzaqout0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/zaqoutabed/" target="_blank">
+  <a href="https://www.facebook.com/abdallahzaqout0/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://twitter.com/aazaqout" target="_blank">
+  <a href="https://twitter.com/abdallahzaqout0" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
